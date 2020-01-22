@@ -1,4 +1,4 @@
-# Gatsby Starter Tailwind
+# Run.stef.io
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 
